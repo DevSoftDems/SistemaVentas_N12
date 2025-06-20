@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Capa_Entidad.Productos>
+
+@{
+    ViewBag.Title = "Productos";
+}
+
+<h2>Lista de Zapatillas</h2>
+
+
+@if (TempData["mensaje"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["mensaje"]
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    <div>
+        Nombre del Producto: @Html.TextBox("nomProd", ViewBag.nomProd as string)
+        <button class="btn btn-info">Consultar</button>
+    </div>
+}
+
+<p>
+    <a href="@Url.Action("CreateProductos")" class="btn btn-info">Agregar Producto</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.idProd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nomProd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.stock)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.talla)
+        </th>
+        
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.idProd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nomProd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stock)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.talla)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Editar", "EditarProductos", new { id = item.idProd }, new { @class = "btn btn-warning" }) |
+                @Html.ActionLink("Eliminar", "EliminarProductos", new { id = item.idProd }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div class="alert alert-info">
+    @for (int i = 0; i < ViewBag.CANT_PAGINAS; i++)
+    {
+        @Html.ActionLink(
+           (i + 1).ToString(),
+           "Productos",
+           new
+                {
+                    nro_pag = i,
+               nomProd = ViewBag.nomProd
+                },
+           new { @class = "btn btn-secondary" }
+        )
+        @Html.Raw("&nbsp;")
+    }

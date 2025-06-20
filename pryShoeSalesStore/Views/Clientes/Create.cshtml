@@ -1,0 +1,75 @@
+﻿@model Capa_Entidad.Cliente
+
+@{
+    ViewBag.Title = "Registrar Cliente";
+}
+
+<h2 class="text-center mb-4">Registrar Cliente</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="container" style="max-width: 900px;">
+        <h4 class="text-center mb-3"><strong>Cliente</strong></h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger text-center" })
+
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <label class="form-label fw-bold">@Html.DisplayNameFor(model => model.idCli)</label>
+                @Html.EditorFor(model => model.idCli, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.idCli, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label fw-bold">@Html.DisplayNameFor(model => model.nomCli)</label>
+                @Html.EditorFor(model => model.nomCli, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nomCli, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label fw-bold">@Html.DisplayNameFor(model => model.apeCli)</label>
+                @Html.EditorFor(model => model.apeCli, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.apeCli, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <label class="form-label fw-bold">@Html.DisplayNameFor(model => model.dni)</label>
+                @Html.EditorFor(model => model.dni, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.dni, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label fw-bold">@Html.DisplayNameFor(model => model.dirCli)</label>
+                @Html.EditorFor(model => model.dirCli, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.dirCli, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label fw-bold">@Html.DisplayNameFor(model => model.fecReg)</label>
+                @Html.TextBoxFor(model => model.fecReg, new { @class = "form-control", type = "date" })
+                @Html.ValidationMessageFor(model => model.fecReg, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="text-center mt-4">
+            @Html.ActionLink("Limpiar", "Create", null, new { @class = "btn btn-success me-2" })
+            <input type="submit" value="Grabar" class="btn btn-primary me-2" />
+            @Html.ActionLink("Regresar", "Index", null, new { @class = "btn btn-warning" })
+        </div>
+    </div>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.mensaje as string))
+{
+    <div class="text-center mt-3">
+        <h4><strong>@ViewBag.mensaje</strong></h4>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

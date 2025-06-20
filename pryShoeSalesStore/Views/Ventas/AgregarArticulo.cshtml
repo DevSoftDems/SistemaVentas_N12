@@ -1,0 +1,72 @@
+﻿@model Capa_Entidad.Productos
+
+@{
+    ViewBag.Title = "Agregar artículo";
+}
+
+<div class="container mt-4">
+
+    <h2 class="mb-4 text-success">
+        <i class="bi bi-cart-plus-fill me-2"></i>Agregar artículo al carrito
+    </h2>
+
+    <div class="card mb-4 shadow-sm">
+        <div class="row g-0">
+            <div class="col-md-4 text-center p-3">
+                <img src="@Url.Content("/productos/" + Model.idProd + ".png")"
+                     alt="@Model.nomProd" class="img-fluid rounded" style="max-height: 250px;" />
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-4">@Html.DisplayNameFor(m => m.idProd)</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(m => m.idProd)</dd>
+
+                        <dt class="col-sm-4">@Html.DisplayNameFor(m => m.nomProd)</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(m => m.nomProd)</dd>
+
+                        <dt class="col-sm-4">@Html.DisplayNameFor(m => m.precio)</dt>
+                        <dd class="col-sm-8">S/. @Html.DisplayFor(m => m.precio)</dd>
+
+                        <dt class="col-sm-4">@Html.DisplayNameFor(m => m.stock)</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(m => m.stock)</dd>
+
+                        <dt class="col-sm-4">@Html.DisplayNameFor(m => m.talla)</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(m => m.talla)</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="mb-3">
+            <label class="form-label"><i class="bi bi-sort-numeric-up me-1"></i>Cantidad:</label>
+            @Html.TextBox("cantidad", "1", new { @type = "number", @class = "form-control w-25 d-inline", @min = "1" })
+        </div>
+        <div class="mb-4 d-flex gap-2">
+            <button type="submit" class="btn btn-success">
+                <i class="bi bi-cart-plus-fill me-1"></i> Agregar al carrito
+            </button>
+
+            <a href="@Url.Action("IndexProductos")" class="btn btn-secondary">
+                <i class="bi bi-box-arrow-left me-1"></i> Seguir Comprando
+            </a>
+
+            <a href="@Url.Action("VerCarrito")" class="btn btn-primary">
+                <i class="bi bi-basket-fill me-1"></i> Ver Carrito
+            </a>
+        </div>
+    }
+
+    @if (ViewBag.mensaje != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.mensaje</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+</div>

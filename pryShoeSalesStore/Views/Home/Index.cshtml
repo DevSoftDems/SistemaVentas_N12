@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Bienvenida";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container text-center mt-5">
+    <h2 class="mb-4">Bienvenido(a), @ViewBag.NombreUsuario</h2>
+
+    <div class="row justify-content-center gap-4">
+        <div class="col-md-4 card p-3 shadow">
+            <img src="~/Content/clientes.png" class="img-fluid mb-3" style="height: 200px; object-fit: cover;" />
+            <a href="/Clientes/Index" class="btn btn-primary w-100">Registrar Cliente</a>
+        </div>
+
+        <div class="col-md-4 card p-3 shadow">
+            <img src="~/Content/producto.png" class="img-fluid mb-3" style="height: 200px; object-fit: cover;" />
+            <a href="/Productos/Productos" class="btn btn-primary w-100">Registrar Zapatillas</a>
+        </div>
+
+        <div class="col-md-4 card p-3 shadow">
+            <img src="~/Content/producto.png" class="img-fluid mb-3" style="height: 200px; object-fit: cover;" />
+            <a href="/Ventas/IndexProductos" class="btn btn-success w-100">Vender Producto</a>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a href="/Login/Login" class="btn btn-danger">Cerrar Sesión</a>
+    </div>
+</div>

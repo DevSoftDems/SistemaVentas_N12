@@ -1,0 +1,50 @@
+﻿@model Capa_Entidad.Cliente
+
+@{
+    ViewBag.Title = "Detalles del Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align: center; margin-bottom: 30px;">Detalles del Cliente</h2>
+
+<div style="width: 500px; margin: 0 auto; text-align: center;">
+    <div style="margin-bottom: 15px;">
+        <label style="font-weight: bold;">@Html.DisplayNameFor(model => model.idCli)</label>
+        <div>@Html.DisplayFor(model => model.idCli)</div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label style="font-weight: bold;">@Html.DisplayNameFor(model => model.nomCli)</label>
+        <div>@Html.DisplayFor(model => model.nomCli)</div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label style="font-weight: bold;">@Html.DisplayNameFor(model => model.apeCli)</label>
+        <div>@Html.DisplayFor(model => model.apeCli)</div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label style="font-weight: bold;">@Html.DisplayNameFor(model => model.dni)</label>
+        <div>@Html.DisplayFor(model => model.dni)</div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label style="font-weight: bold;">@Html.DisplayNameFor(model => model.dirCli)</label>
+        <div>@Html.DisplayFor(model => model.dirCli)</div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label style="font-weight: bold;">@Html.DisplayNameFor(model => model.eliCli)</label>
+        <div>@Html.DisplayFor(model => model.eliCli)</div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label style="font-weight: bold;">@Html.DisplayNameFor(model => model.fecReg)</label>
+        <div>@Html.DisplayFor(model => model.fecReg)</div>
+    </div>
+
+    <div style="margin-top: 30px;">
+        @Html.ActionLink("Editar", "Edit", new { id = Model.idCli }, new { @class = "btn btn-success", style = "margin-right: 10px;" })
+        @Html.ActionLink("Regresar", "Index", null, new { @class = "btn btn-warning" })
+    </div>
+</div>

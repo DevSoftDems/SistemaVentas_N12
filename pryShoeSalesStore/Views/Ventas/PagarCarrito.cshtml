@@ -1,0 +1,181 @@
+﻿@model IEnumerable<Capa_Entidad.Carrito>
+
+@{
+    ViewBag.Title = "Pagar Carrito";
+}
+
+<div class="container mt-4">
+
+    <h2 class="mb-4 text-success">
+        <i class="bi bi-credit-card-2-front-fill me-2"></i>Pagar Carrito
+    </h2>
+
+    @using (Html.BeginForm(null, null, FormMethod.Post, new { id = "formPago" }))
+    {
+        <div class="card mb-4">
+            <div class="card-body">
+                <p class="mb-2"><strong>Fecha:</strong> @DateTime.Now.ToShortDateString()</p>
+                <p class="mb-3"><strong>Hora:</strong> @DateTime.Now.ToLongTimeString()</p>
+
+                <div class="mb-3">
+                    <label for="codCli" class="form-label fw-bold">Cliente:</label>
+                    @Html.DropDownList("codCli", (SelectList)ViewBag.clientes, "Seleccionar", new { @class = "form-select", required = "required" })
+                </div>
+
+                <div class="d-flex gap-2">
+                    <button type="button" id="btnRealizarPago" class="btn btn-success">
+                        <i class="bi bi-cash-coin me-1"></i> Realizar Pago
+                    </button>
+
+                    <a href="@Url.Action("VerCarrito")" class="btn btn-primary">
+                        <i class="bi bi-pencil-square me-1"></i> Modificar Carrito
+                    </a>
+
+                    <a href="@Url.Action("IndexProductos")" class="btn btn-outline-secondary">
+                        <i class="bi bi-box-arrow-left me-1"></i> Seguir Comprando
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="table-responsive">
+        <table class="table table-striped align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.idProd)</th>
+                    <th>@Html.DisplayNameFor(model => model.nomProd)</th>
+                    <th>@Html.DisplayNameFor(model => model.precio)</th>
+                    <th>@Html.DisplayNameFor(model => model.stock)</th>
+                    <th>@Html.DisplayNameFor(model => model.talla)</th>
+                    <th>@Html.DisplayNameFor(model => model.importe)</th>
+                    <th>Foto</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.idProd)</td>
+                        <td>@Html.DisplayFor(modelItem => item.nomProd)</td>
+                        <td>S/. @Html.DisplayFor(modelItem => item.precio)</td>
+                        <td>@Html.DisplayFor(modelItem => item.stock)</td>
+                        <td>@Html.DisplayFor(modelItem => item.talla)</td>
+                        <td>S/. @Html.DisplayFor(modelItem => item.importe)</td>
+                        <td>
+                            <img src="@Url.Content("/productos/" + item.idProd + ".png")"
+                                 alt="@item.nomProd" class="img-thumbnail" style="width: 60px; height: 60px;" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    @if (ViewBag.total != null)
+    {
+        <div class="alert alert-info mt-4">
+            <h5 class="mb-0">
+                <i class="bi bi-cash-stack me-2"></i><strong>Total a pagar: S/. @ViewBag.total</strong>
+            </h5>
+        </div>
+    }
+
+    @if (ViewBag.mensaje != null)
+    {
+        <div class="alert alert-danger mt-4">
+            <h5 class="mb-0">
+                <i class="bi bi-exclamation-triangle-fill me-2"></i><strong>@ViewBag.mensaje</strong>
+            </h5>
+        </div>
+    }
+
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="confirmPagoModal" tabindex="-1" aria-labelledby="confirmPagoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="confirmPagoModalLabel"><i class="bi bi-receipt me-2"></i>Detalles de la Compra</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <p><strong>Cliente:</strong> <span id="clienteSeleccionado"></span></p>
+                <p><strong>Fecha:</strong> @DateTime.Now.ToShortDateString()</p>
+                <p><strong>Hora:</strong> @DateTime.Now.ToLongTimeString()</p>
+
+                <div class="table-responsive">
+                    <table class="table table-bordered align-middle">
+                        <thead>
+                            <tr class="table-secondary">
+                                <th>Producto</th>
+                                <th>Precio</th>
+                                <th>Cantidad</th>
+                                <th>Importe</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.nomProd</td>
+                                    <td>S/. @item.precio</td>
+                                    <td>@item.stock</td>
+                                    <td>S/. @item.importe</td>
+                                </tr>
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th colspan="3" class="text-end">Total:</th>
+                                <th>S/. @ViewBag.total</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                    <i class="bi bi-x-circle me-1"></i> Cancelar
+                </button>
+                <button type="button" id="btnConfirmarPago" class="btn btn-success">
+                    <i class="bi bi-check-circle me-1"></i> Confirmar Pago
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var formPago = document.getElementById("formPago");
+            var btnRealizarPago = document.getElementById("btnRealizarPago");
+            var confirmPagoModal = new bootstrap.Modal(document.getElementById('confirmPagoModal'));
+            var clienteDropdown = document.querySelector('select[name="codCli"]');
+            var clienteSeleccionadoSpan = document.getElementById("clienteSeleccionado");
+            var btnConfirmarPago = document.getElementById("btnConfirmarPago");
+
+            btnRealizarPago.addEventListener("click", function (e) {
+                // Validar que se haya seleccionado un cliente
+                if (!clienteDropdown.value) {
+                    alert("Por favor, seleccione un cliente antes de continuar.");
+                    return;
+                }
+
+                // Mostrar el nombre del cliente seleccionado en el modal
+                var selectedOption = clienteDropdown.options[clienteDropdown.selectedIndex].text;
+                clienteSeleccionadoSpan.textContent = selectedOption;
+
+                // Abrir modal
+                confirmPagoModal.show();
+            });
+
+            btnConfirmarPago.addEventListener("click", function () {
+                // Enviar el formulario cuando se confirme en el modal
+                formPago.submit();
+            });
+        });
+    </script>
+}

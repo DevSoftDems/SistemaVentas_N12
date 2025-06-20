@@ -1,0 +1,26 @@
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Negocio.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Negocio.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Datos.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Entidad.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Newtonsoft.Json.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Datos.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Entidad.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Newtonsoft.Json.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Datos.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Entidad.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Datos.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Entidad.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.pdb

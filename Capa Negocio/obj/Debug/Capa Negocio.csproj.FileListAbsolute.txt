@@ -1,0 +1,13 @@
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Negocio.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Negocio.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Datos.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Entidad.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Newtonsoft.Json.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Datos.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Capa Entidad.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\bin\Debug\Newtonsoft.Json.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.csproj.AssemblyReference.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Neg.64FF6D98.Up2Date
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Negocio\obj\Debug\Capa Negocio.pdb

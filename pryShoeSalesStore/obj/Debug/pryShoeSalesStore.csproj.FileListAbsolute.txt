@@ -1,0 +1,276 @@
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.dll.config
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.exe
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.exe.config
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.rsp
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.exe
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.exe.config
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.rsp
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.AppContext.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Collections.Immutable.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Console.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Globalization.Calendars.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.Compression.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.FileSystem.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Net.Http.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Net.Sockets.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.ValueTuple.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XPath.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.exe
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.exe.config
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.rsp
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\VBCSCompiler.exe
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\VBCSCompiler.exe.config
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Antlr3.Runtime.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Entidad.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Negocio.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.Web.Infrastructure.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Newtonsoft.Json.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Helpers.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Mvc.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Optimization.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Razor.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Deployment.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Razor.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\WebGrease.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Entidad.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Negocio.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Helpers.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Mvc.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Optimization.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Razor.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Deployment.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Razor.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Newtonsoft.Json.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Antlr3.Runtime.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Helpers.resources.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Mvc.resources.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Optimization.resources.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Razor.resources.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.resources.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.csproj.AssemblyReference.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.csproj.CoreCompileInputs.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeS.7ABC24E6.Up2Date
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Datos.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Datos.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.dll.config
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.exe
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.exe.config
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.rsp
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.exe
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.exe.config
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.rsp
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.AppContext.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Console.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Net.Http.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.exe
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.exe.config
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.rsp
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Antlr3.Runtime.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Entidad.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Negocio.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Newtonsoft.Json.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Helpers.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Mvc.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Optimization.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Razor.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\WebGrease.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Datos.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Entidad.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Negocio.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Helpers.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Mvc.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Optimization.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Razor.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Newtonsoft.Json.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Antlr3.Runtime.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Datos.pdb
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Helpers.resources.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Mvc.resources.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Optimization.resources.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Razor.resources.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.resources.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.csproj.AssemblyReference.cache
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.csproj.CoreCompileInputs.cache
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeS.7ABC24E6.Up2Date
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.dll
+C:\Users\abels\OneDrive\Desktop\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.pdb
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.dll.config
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\pryShoeSalesStore.pdb
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.exe
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.exe.config
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csc.rsp
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.exe
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.exe.config
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\csi.rsp
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.AppContext.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Collections.Immutable.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Console.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.Compression.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.FileSystem.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Net.Http.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Net.Sockets.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.ValueTuple.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XPath.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.exe
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.exe.config
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\vbc.rsp
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\VBCSCompiler.exe
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\roslyn\VBCSCompiler.exe.config
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Antlr3.Runtime.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Entidad.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Negocio.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.Web.Infrastructure.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Newtonsoft.Json.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Helpers.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Mvc.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Optimization.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Razor.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Deployment.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Razor.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\WebGrease.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Datos.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Entidad.pdb
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Negocio.pdb
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Helpers.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Mvc.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Optimization.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.Razor.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Deployment.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\System.Web.WebPages.Razor.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Newtonsoft.Json.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Antlr3.Runtime.pdb
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\Capa Datos.pdb
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Helpers.resources.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Mvc.resources.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Optimization.resources.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.Razor.resources.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.resources.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.csproj.AssemblyReference.cache
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.csproj.CoreCompileInputs.cache
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeS.7ABC24E6.Up2Date
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.dll
+D:\WORKS25\GITHUBSUBIR\EFSRT4\N02\slnShoeSalesStore\pryShoeSalesStore\obj\Debug\pryShoeSalesStore.pdb

@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryshoesalesstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryshoesalesstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|d:\\works25\\githubsubir\\efsrt4\\n02\\slnshoesalesstore\\capa datos\\ventasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|solutionrelative:capa datos\\ventasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryshoesalesstore\\views\\ventas\\indexproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryshoesalesstore\\views\\ventas\\indexproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\VentasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Controllers\\VentasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\Productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Productos\\Productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\ClientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Controllers\\ClientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\EditarProductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Productos\\EditarProductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Clientes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Clientes\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Clientes\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\EliminarProductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Productos\\EliminarProductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\CreateProductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Productos\\CreateProductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Login\\Bienvenida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Login\\Bienvenida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25115B38-D506-4148-9CF9-370B765D659C}|Capa Negocio\\Capa_Negocio.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\ProductosNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25115B38-D506-4148-9CF9-370B765D659C}|Capa Negocio\\Capa_Negocio.csproj|solutionrelative:Capa Negocio\\ProductosNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25115B38-D506-4148-9CF9-370B765D659C}|Capa Negocio\\Capa_Negocio.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\ClientesNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25115B38-D506-4148-9CF9-370B765D659C}|Capa Negocio\\Capa_Negocio.csproj|solutionrelative:Capa Negocio\\ClientesNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\ClientesDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|solutionrelative:Capa Datos\\ClientesDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Clientes\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA38DC7-E447-4263-B033-E2662253EDD0}|pryShoeSalesStore\\pryShoeSalesStore.csproj|solutionrelative:pryShoeSalesStore\\Views\\Clientes\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\DBHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|solutionrelative:Capa Datos\\DBHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\UsuariosDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|solutionrelative:Capa Datos\\UsuariosDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25115B38-D506-4148-9CF9-370B765D659C}|Capa Negocio\\Capa_Negocio.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\UsuarioNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25115B38-D506-4148-9CF9-370B765D659C}|Capa Negocio\\Capa_Negocio.csproj|solutionrelative:Capa Negocio\\UsuarioNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\DBHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{D014C199-872D-4B73-8A5F-5B9E3A0DC65A}|Capa Datos\\Capa_Datos.csproj|solutionrelative:Capa Datos\\DBHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentasDAO.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\VentasDAO.cs",
+              "RelativeDocumentMoniker": "Capa Datos\\VentasDAO.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\VentasDAO.cs",
+              "RelativeToolTip": "Capa Datos\\VentasDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:34:26.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Web.config",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Web.config",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Web.config",
+              "RelativeToolTip": "pryShoeSalesStore\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-20T00:00:10.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexProductos.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Ventas\\IndexProductos.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Ventas\\IndexProductos.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Ventas\\IndexProductos.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Ventas\\IndexProductos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T00:19:48.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T23:14:59.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Controllers\\VentasController.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "pryShoeSalesStore\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:42:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\Productos.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Productos\\Productos.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\Productos.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Productos\\Productos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T23:03:50.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "pryShoeSalesStore\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:26:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "pryShoeSalesStore\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:20:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditarProductos.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\EditarProductos.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Productos\\EditarProductos.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\EditarProductos.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Productos\\EditarProductos.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T23:37:37.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T00:10:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T01:22:33.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T01:12:17.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EliminarProductos.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\EliminarProductos.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Productos\\EliminarProductos.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\EliminarProductos.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Productos\\EliminarProductos.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T23:40:10.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductos.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\CreateProductos.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Productos\\CreateProductos.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Productos\\CreateProductos.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Productos\\CreateProductos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T23:25:10.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bienvenida.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Login\\Bienvenida.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Login\\Bienvenida.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Login\\Bienvenida.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Login\\Bienvenida.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T23:13:07.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductosNegocio.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\ProductosNegocio.cs",
+              "RelativeDocumentMoniker": "Capa Negocio\\ProductosNegocio.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\ProductosNegocio.cs",
+              "RelativeToolTip": "Capa Negocio\\ProductosNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:15:24.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientesNegocio.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\ClientesNegocio.cs",
+              "RelativeDocumentMoniker": "Capa Negocio\\ClientesNegocio.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\ClientesNegocio.cs",
+              "RelativeToolTip": "Capa Negocio\\ClientesNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:06:42.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientesDAO.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\ClientesDAO.cs",
+              "RelativeDocumentMoniker": "Capa Datos\\ClientesDAO.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\ClientesDAO.cs",
+              "RelativeToolTip": "Capa Datos\\ClientesDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:09:41.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "pryShoeSalesStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:41:11.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T01:26:59.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "pryShoeSalesStore\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\pryShoeSalesStore\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "pryShoeSalesStore\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T01:10:07.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Capa Datos\\DBHelper.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\DBHelper.cs",
+              "RelativeToolTip": "Capa Datos\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:00:58.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuariosDAO.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\UsuariosDAO.cs",
+              "RelativeDocumentMoniker": "Capa Datos\\UsuariosDAO.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\UsuariosDAO.cs",
+              "RelativeToolTip": "Capa Datos\\UsuariosDAO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T22:37:32.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "Capa Negocio\\UsuarioNegocio.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Negocio\\UsuarioNegocio.cs",
+              "RelativeToolTip": "Capa Negocio\\UsuarioNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:00:35.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Capa Datos\\DBHelper.cs",
+              "ToolTip": "D:\\WORKS25\\GITHUBSUBIR\\EFSRT4\\N02\\slnShoeSalesStore\\Capa Datos\\DBHelper.cs",
+              "RelativeToolTip": "Capa Datos\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:03:09.049Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

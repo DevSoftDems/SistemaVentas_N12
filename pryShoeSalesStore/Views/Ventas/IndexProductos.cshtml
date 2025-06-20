@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Capa_Entidad.Productos>
+
+@{
+    ViewBag.Title = "IndexProductos";
+}
+
+<h2>Listado de Zapatillas</h2>
+
+@if (TempData["mensaje"] != null)
+{
+    <div class="alert alert-success">
+        <h4>
+            <strong>@TempData["mensaje"]</strong>
+        </h4>
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    <div class="mb-3">
+        <em>Nombre de Producto: </em>
+        @Html.TextBox("nombre", "", new { @class = "form-control d-inline w-auto ms-2 me-2" })
+        <button class="btn btn-success" type="submit">
+            <i class="bi bi-search"></i> Consultar
+        </button>
+    </div>
+}
+
+<!--<div class="alert alert-secondary">
+    <h4><strong>Se encontraron: @Model.Count() articulo(s)</strong></h4>
+</div>
+-->
+<p>
+    <a class="btn btn-primary" href="@Url.Action("VerCarrito")">
+        <i class="bi bi-cart"></i> Ver Carrito
+    </a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.idProd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nomProd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.stock)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.talla)
+        </th>
+        <th>
+            Imagen
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.idProd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nomProd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stock)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.talla)
+            </td>
+            <td>
+                <img src="@Url.Content("/productos/"+item.idProd+".png")" alt="@item.nomProd" style="width:120px;height:120px;" />
+            </td>
+            <td>
+                <a class="btn btn-secondary" href="@Url.Action("AgregarArticulo", new { id = item.idProd })">
+                    <i class="bi bi-cart-plus"></i> Agregar al carrito
+                </a>
+
+            </td>
+        </tr>
+    }
+
+</table>
+

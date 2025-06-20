@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pryShoeSalesStore",
+    "\\pryShoeSalesStore\\Views",
+    "\\pryShoeSalesStore\\Views\\Clientes",
+    "\\pryShoeSalesStore\\Views\\Home",
+    "\\pryShoeSalesStore\\Views\\Login",
+    "\\pryShoeSalesStore\\Views\\Productos",
+    "\\pryShoeSalesStore\\Views\\Shared",
+    "\\pryShoeSalesStore\\Views\\Ventas"
+  ],
+  "SelectedNode": "\\pryShoeSalesStore\\Views\\Ventas\\PagarCarrito.cshtml",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,67 @@
+﻿@model Capa_Entidad.Productos
+
+@{
+    ViewBag.Title = "EliminarProductos";
+}
+
+<h2>Eliminar Zapatilla</h2>
+
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.idProd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idProd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nomProd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomProd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.talla)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.talla)
+        </dd>
+
+        
+               
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+            <a href="@Url.Action("Productos")" class="btn btn-info">Regresar</a>
+        </div>
+    }
+</div>

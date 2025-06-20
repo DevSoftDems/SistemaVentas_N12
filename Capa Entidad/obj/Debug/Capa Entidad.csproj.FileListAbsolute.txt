@@ -1,0 +1,6 @@
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Entidad\bin\Debug\Capa Entidad.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Entidad\bin\Debug\Capa Entidad.pdb
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Entidad\obj\Debug\Capa Entidad.csproj.AssemblyReference.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Entidad\obj\Debug\Capa Entidad.csproj.CoreCompileInputs.cache
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Entidad\obj\Debug\Capa Entidad.dll
+E:\CICLO_V\EFSRT V\slnShoeSalesStore\Capa Entidad\obj\Debug\Capa Entidad.pdb
