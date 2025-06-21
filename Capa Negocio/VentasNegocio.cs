@@ -34,7 +34,19 @@ namespace Capa_Negocio
 
                 throw new Exception(ex.Message);
             }
-            
+
+        }
+
+        public VentaCompleta ObtenerVentaCompleta(string numVenta)
+        {
+            try
+            {
+                return dao.ObtenerVentaCompleta(numVenta);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
     }
 }

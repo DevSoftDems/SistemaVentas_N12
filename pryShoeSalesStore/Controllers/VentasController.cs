@@ -9,6 +9,10 @@ using Capa_Negocio;
 
 using Newtonsoft.Json;
 using System.Transactions;
+using iTextSharp.text;
+using iTextSharp.text.pdf;
+using iTextSharp.tool.xml;
+using System.IO;
 
 namespace pryShoeSalesStore.Controllers
 {
@@ -160,12 +164,12 @@ namespace pryShoeSalesStore.Controllers
                 try
                 {
                     // Calcular el total del carrito
-                    TempData["mensaje"] = neg1.GrabarVenta(codCli, total, listacar); // Grabar la venta
+                    string numVenta = neg1.GrabarVenta(codCli, total, listacar); // Grabar la venta
 
                     trx.Complete(); // Confirmar la transacción si todo sale bien
                     // Eliminar la sesión del carrito después de procesar el pago
                     Session.Remove("Carrito");
-                    return RedirectToAction("IndexProductos");
+                    return RedirectToAction("GenerarBoletaPdf", new { numVenta = numVenta });
                 }
                 catch (Exception ex)
                 {
@@ -199,6 +203,38 @@ namespace pryShoeSalesStore.Controllers
             catch
             {
                 return View();
+            }
+        }
+
+        private string RenderRazorViewToString(string viewName, object model)
+        {
+            ViewData.Model = model;
+            using (var sw = new StringWriter())
+            {
+                var viewResult = ViewEngines.Engines.FindView(ControllerContext, viewName, null);
+                var viewContext = new ViewContext(ControllerContext, viewResult.View, ViewData, TempData, sw);
+                viewResult.View.Render(viewContext, sw);
+                viewResult.ViewEngine.ReleaseView(ControllerContext, viewResult.View);
+                return sw.GetStringBuilder().ToString();
+            }
+        }
+
+        public ActionResult GenerarBoletaPdf(string numVenta)
+        {
+            var venta = neg1.ObtenerVentaCompleta(numVenta);
+            string html = RenderRazorViewToString("Boleta", venta);
+
+            using (var ms = new MemoryStream())
+            {
+                Document doc = new Document(PageSize.A4, 25, 25, 25, 25);
+                PdfWriter writer = PdfWriter.GetInstance(doc, ms);
+                doc.Open();
+                using (var sr = new StringReader(html))
+                {
+                    XMLWorkerHelper.GetInstance().ParseXHtml(writer, doc, sr);
+                }
+                doc.Close();
+                return File(ms.ToArray(), "application/pdf", $"Boleta_{numVenta}.pdf");
             }
         }
     }

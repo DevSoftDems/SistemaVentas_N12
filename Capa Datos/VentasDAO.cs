@@ -41,7 +41,7 @@ namespace Capa_Datos
                 {// ------- Modificacion para que se grabe el stock en vez de la Talla
                     DBHelper.EjecutarSP("PA_GRABAR_DETALLE_VENTA", num_vta, item.idProd, item.stock, item.precio, item.nomProd);
                 }
-                return $"La venta {num_vta} se ha registrado correctamente.";
+                return num_vta;
             }
             catch (Exception ex)
             {
@@ -50,6 +50,36 @@ namespace Capa_Datos
             }
 
 
+        }
+
+        public VentaCompleta ObtenerVentaCompleta(string numVenta)
+        {
+            var venta = new VentaCompleta();
+            DataSet ds = DBHelper.RetornaDataSet("PA_OBTENER_VENTA_COMPLETA", numVenta);
+
+            if (ds.Tables.Count >= 2)
+            {
+                if (ds.Tables[0].Rows.Count > 0)
+                {
+                    DataRow row = ds.Tables[0].Rows[0];
+                    venta.numVenta = row["numVenta"].ToString();
+                    venta.fecha = Convert.ToDateTime(row["fecha"]);
+                    venta.total = Convert.ToDecimal(row["total"]);
+                    venta.cliente = new Cliente
+                    {
+                        idCli = row["idCli"].ToString(),
+                        nomCli = row["nomCli"].ToString(),
+                        apeCli = row["apeCli"].ToString(),
+                        dni = row["dni"].ToString(),
+                        dirCli = row["dirCli"].ToString()
+                    };
+                }
+
+                string cad = JsonConvert.SerializeObject(ds.Tables[1]);
+                venta.detalle = JsonConvert.DeserializeObject<List<Carrito>>(cad);
+            }
+
+            return venta;
         }
 
     }

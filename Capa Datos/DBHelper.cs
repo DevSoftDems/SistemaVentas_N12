@@ -80,7 +80,24 @@ namespace Capa_Datos
                 adap.Fill(tabla);
             }
 
-            return tabla;   
+            return tabla;
+        }
+
+        // metodo para ejecutar un SP que devuelve multiples tablas
+        public static DataSet RetornaDataSet(
+            string nombreSP, params object[] valoresparametros)
+        {
+            DataSet ds = new DataSet();
+            using (SqlDataAdapter adap = new SqlDataAdapter(nombreSP, cad_cn))
+            {
+                adap.SelectCommand.CommandType = CommandType.StoredProcedure;
+                if (valoresparametros.Length > 0)
+                {
+                    LlenarParametros(adap.SelectCommand, valoresparametros);
+                }
+                adap.Fill(ds);
+            }
+            return ds;
         }
 
 
