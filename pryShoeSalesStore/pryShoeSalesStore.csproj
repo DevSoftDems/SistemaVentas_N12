@@ -107,6 +107,9 @@
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
     </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\net45\itextsharp.dll</HintPath>
+    </Reference>
     <Reference Include="Antlr3.Runtime">
       <Private>True</Private>
       <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
@@ -212,6 +215,7 @@
     <Content Include="Views\Ventas\IndexProductos.cshtml" />
     <Content Include="Views\Ventas\PagarCarrito.cshtml" />
     <Content Include="Views\Ventas\VerCarrito.cshtml" />
+    <Content Include="Views\Ventas\Boleta.cshtml" />
     <Content Include="Views\Productos\Productos.cshtml" />
     <Content Include="Views\Productos\CreateProductos.cshtml" />
     <Content Include="Views\Productos\EditarProductos.cshtml" />
