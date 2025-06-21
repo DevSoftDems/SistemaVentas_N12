@@ -5,15 +5,16 @@ CREATE PROCEDURE PA_OBTENER_VENTA_COMPLETA
 AS
 BEGIN
     -- Primer result set: cabecera y cliente
-    SELECT v.numVenta, v.fecha, v.total,
+    SELECT v.numVenta, v.fecVenta AS fecha, v.totVenta AS total,
            c.idCli, c.nomCli, c.apeCli, c.dni, c.dirCli
     FROM Ventas v
         JOIN Clientes c ON v.idCli = c.idCli
     WHERE v.numVenta = @numVenta;
 
     -- Segundo result set: detalle
-    SELECT d.idProd, d.nomProd, d.cantidad AS stock, d.precio
+    SELECT d.idProd, p.nomProd, d.cantidad AS stock, d.precio
     FROM DetalleVentas d
+        JOIN Productos p ON d.idProd = p.idProd
     WHERE d.numVenta = @numVenta;
 END;
 GO
